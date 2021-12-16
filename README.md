@@ -66,6 +66,7 @@ Explanation 2:
 **-------> Code:**
  
 **Right Code:(O(nlogn))**
+
  int Solution::solve(vector<int> &A) {
 
   int ans=0,n=A.size(),maxi=0;
